@@ -1,0 +1,26 @@
+PRANIT GUPTA 
+
+RESUME OBJECTIVE 
+I am an undergraduate student in Computer Science. I have keen interest in coding and management skills. I want to be placed in a company which can offer me a good package with a whole lot more knowledge and experience. Always want to learn new things. And in free time surf over internet in finding such things
+
+PROJECTS
+Library Management system – This is a personal project which I made for someone who can use in order to manage library content. This is fully responsive project which has all the features required. 
+Link - https://github.com/Pranit5895/Android-Studio-/tree/main/LMS
+
+Shapes – This is another android studio project which helps us to find area, perimeter, circumference and volume of various shapes given their dimensions. 
+Link - https://github.com/Pranit5895/Android-Studio-/tree/main/Shapes/Shapes
+
+Chat Application – Ongoing 
+
+
+EDUCATION
+BTech, University of Petroleum and Energy Studies, Dehardun ( 2019, Present)
+
+
+SKILLS 
+•	Software		: Git, GitHub, Jenkins, Maven, Android Studio
+•	Languages		: C/C++, java, python
+•	Operating Systems	: Windows, Linux
+•	Framework              :  HTML5, CSS, JS
+
+
